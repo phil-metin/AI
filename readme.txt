@@ -1,7 +1,7 @@
 In order to run the game you need python installed along with the numpy module. Please refer to google if you do not know how to do it.
 
 to start the game please type in your console, after you installed python,
-"python mancala.py" (omit the question marks). 
+"python mancala.py" (omit the quotation marks). 
 You may also try double clicking the mancala.py file, although it may not necesarilly work. 
 
 The game by default is set to a mode player vs MiniMax of max depth 5
@@ -20,8 +20,4 @@ if(whoseTurn == 0)
 
 
 The no pruning version does not support playing as player 2.
-In case of any problems please write:
 
-s182344@student.dtu.dk
-
-I'll try to answer asap.
